@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/v1`,
+  pathPrefix: `/V1`,
   siteMetadata: {
     title: 'Berlin Cricket Academy',
     description: 'Cricket for all. A cricket academy for Berlin amateurs.',
